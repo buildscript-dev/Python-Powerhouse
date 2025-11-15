@@ -4,4 +4,3 @@ class Factory:
 
 
 obj = Factory()
-Factory098765 )
